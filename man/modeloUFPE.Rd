@@ -1,6 +1,6 @@
 \name{modeloUFPE}
 \alias{modeloUFPE}
-\title{Modelo de Relatório para a Uaest-UFCG}
+\title{Modelo de Relatório UFPE}
 \usage{
 modeloUFPE(..., keep_tex = TRUE, citation_package = "natbib")
 }
