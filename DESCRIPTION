@@ -1,9 +1,9 @@
-Package: modeloUFCG
+Package: modeloUFPE
 Type: Package
-Title: Modelo de Relatorio para UAest-UFCG
+Title: Modelo de Relatorio para UFPE
 Version: 0.6.0
 Date: 2019-09-05
-Author: Jerfson
+Author: Jerfson Bruno
 Maintainer: Marcus Nunes <marcus@marcusnunes.me>
 Depends:
   R (>= 3.5.0)
@@ -12,6 +12,6 @@ Description: Um estilo de relatorio tipo 'Royal Society Open Science'
   com 'LaTeX', em mente, para geracao de pdfs. Fortemente baseado no 
  modelo do professor Marcus Nunes <marcus@marcusnunes.me> 
   e adaptado para o uso pessoal. 
-URL: https://github.com/jerfsonbruno/ModeloUFCG
+URL: https://github.com/jerfsonbruno/ModeloUFPE
 Imports: rmarkdown, knitr, ggplot2, ggfortify, bookdown
 License: GPL3
