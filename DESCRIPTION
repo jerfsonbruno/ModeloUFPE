@@ -1,6 +1,6 @@
-Package: modeloUFPE
+Package: modeloUFCG
 Type: Package
-Title: Modelo de Relatorio
+Title: Modelo de Relatorio para UAest-UFCG
 Version: 0.6.0
 Date: 2019-09-05
 Author: Jerfson

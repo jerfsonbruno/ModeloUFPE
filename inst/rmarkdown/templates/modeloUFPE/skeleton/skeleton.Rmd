@@ -11,11 +11,11 @@ author:
     affiliation: a,e
 address:
   - code: a
-    address: Departamento de Estatística - UFCG
+    address: Departamento de Estatística - UFPE
   - code: b
     address: Consultor
   - code: c
-    address: Outro Departamento - UFCG
+    address: Outro Departamento - UFPE
   - code: d
     address: Consulente
   - code: e
@@ -38,11 +38,11 @@ abstract: |
   Este trabalho estuda a relação entre a velocidade de carros (mph) e a distancia (pés) que eles levaram para parar completamente. Utilizamos o modelo de regressão linear simples para determinar se existe relação entre estas duas variáveis.
 
 # arquivo com a bibliografia do relatorio
-bibliography: modeloUFCG.bib
+bibliography: modeloUFPE.bib
 
 output: 
   bookdown::pdf_book:
-    base_format: modeloUFCG::modeloUFCG
+    base_format: modeloUFPE::modeloUFPE
 ---
 
 
