@@ -1,6 +1,6 @@
 find_resource <- function(template, file = 'template.tex') {
   res <- system.file(
-    "rmarkdown", "templates", template, "resources", file, package = "modeloUFCG"
+    "rmarkdown", "templates", template, "resources", file, package = "modeloUFPE"
   )
   if (res == "") stop(
     "Couldn't find template file ", template, "/resources/", file, call. = FALSE
