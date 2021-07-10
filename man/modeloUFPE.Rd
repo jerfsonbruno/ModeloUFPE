@@ -1,6 +1,6 @@
 \name{modeloUFPE}
 \alias{modeloUFPE}
-\title{Modelo de Relatório UFPE}
+\title{Modelo de Relatório para UFPE}
 \usage{
 modeloUFPE(..., keep_tex = TRUE, citation_package = "natbib")
 }
@@ -16,7 +16,7 @@ Output de R Markdown output para ser passado para
 \code{\link[rmarkdown:render]{render}}
 }
 \description{
-Modelo de documento para geração de relatórios
+Modelo de documento para geração de relatórios para UFPE.
 }
 \section{Document options}{
 
